@@ -1,0 +1,1 @@
+This is a Spring 4 application and so has the long-winded ways of specifying configuration locations and syntax, and is a handy reference.
